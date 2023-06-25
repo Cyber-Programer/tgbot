@@ -2,6 +2,8 @@ import telebot
 import time
 import socket
 from threading import Thread
+import os 
+os.system('pip install gunicorn')
 
 love = telebot.TeleBot('6106338436:AAGB6cLSsI0DTGdRRlEVCBs1d_9YCkkOARY')
 
