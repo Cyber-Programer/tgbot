@@ -1,1 +1,2 @@
-telebot==3.8.6
+telebot==0.0.5
+
